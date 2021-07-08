@@ -1,0 +1,70 @@
+{
+    
+    "adm": {
+        
+    },
+    "conf": {
+        "langsuc": "Ustawiono pomyślnie język bota!!",
+        "guildconf": "Konfiguracja serwera",
+        "change": "Aby zmienić jakąś wartość użyj:",
+        "privchannels": "Lobby prywatnych kanałów",
+        "messagelogs": "Kanał logów wiadomości"
+    },
+    "fun": {
+        "anime": "Wylosowana anime dziewczynka!",
+        "avatar": "Avatar oznaczonej osoby!",
+        "discordjs_error": "Twoje wyszukiwanie nie powiodło się!",
+        "hedgehog": "Wylosowany jeż!",
+        "koala": "Wylosowana koala!",
+        "cat": "Wylosowany kot!",
+        "fox": "Wylosowany lis!",
+        "panda": "Wylosowana panda!",
+        "dog": "Wylosowany pies!",
+        "pikachu": "Wylosowany pikachu!",
+        "bird": "Wylosowany ptak!",
+        "redpanda": "Wylosowana redpanda!"
+    },
+    "inf": {
+        "adm": "Administracyjne",
+        "conf": "Konfiguracyjne",
+        "dev": "Deweloperskie",
+        "fun": "Zabawa",
+        "inf": "Informacyjne",
+        "mod": "Moderacyjne",
+        "cmdnotfound": "Nie znaleziono komendy!",
+        "cmdlist": "Lista komend!",
+        "errorincmd": "Przepraszamy! Podczas wykonywania twojej komendy wystąpił błąd! Został on zgłoszony a administracja bota postara się go jak najszybciej naprawić!",
+        "cmdname": "Nazwa komendy",
+        "aliases": "Aliasy",
+        "nonaliases" : "Brak aliasów!",
+        "usage" : "Użycie",
+        "description": "Opis",
+        "nondescription": "Brak opisu!" ,
+        "cmdinfo": "Informacje o komendzie!",
+        "gdevs": "Głowni developerzy",
+        "devs": "Developerzy",
+        "support": "Support",
+        "team": "Ekipa bota"    ,
+        "notfoundtx": "Upewnij się że komenda której szukasz istnieje! Wszystkie komendy znajdziesz pod komendą",
+        "m1": "Witaj! Dziękuje że używasz mojego bota!",
+        "mp": "Moj prefix",
+        "ml": "Język bota",
+        "mpis": "Jest nim:",
+        "mpchan": "Możesz zmienić go używając komendy",
+        "mhelp": "Znajdziesz ją pod komendą",
+        "mlang": "Możesz zmienić go używając",
+        "mclist": "Lista komend"
+    },
+    "mod": {
+        
+    },
+    "functions": {
+        "sukces": "Sukces!",
+        "error": "Błąd!",
+        "warn" : "Ostrzeżenie!",
+        "usage": "Niepoprawne użycie!",
+        "usage1": "Poprawne użycie",
+        "langs": "Dostępne języki: `pl`, `en`",
+        "brak": "Brak!"
+    }
+}

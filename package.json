@@ -1,0 +1,32 @@
+{
+  "name": "djs-open-src",
+  "version": "1.0.0",
+  "description": "Darmowy bot open-src ez",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "dev:watch": "nodemon index.js"
+  },
+  "keywords": [
+    "djs-open-src",
+    "open-source",
+    "discord.js",
+    "discord",
+    "bot"
+  ],
+  "author": "dejwidson#0001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dejwidson/djs-open-src/issues"
+  },
+  "homepage": "https://github.com/dejwidson/djs-open-src#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.12.13",
+    "node-fetch": "^2.6.1"
+  }
+}

@@ -1,0 +1,70 @@
+{
+    
+    "adm": {
+        
+    },
+    "conf": {
+        "langsuc": "Bot language set successfully!",
+        "guildconf": "Guild config",
+        "change": "To change any value use:",
+        "privchannels": "Private channels lobby",
+        "messagelogs": "Message logs channel"
+    },
+    "fun": {
+        "anime": "Random anime girl",
+        "avatar": "Mentioned user avatar!",
+        "discordjs_error": "Your search was not successful!",
+        "hedgehog": "Random hedgehog!",
+        "koala": "Random koala!",
+        "cat": "Random cat!",
+        "fox": "Random fox!",
+        "panda": "Random panda!",
+        "dog": "Random dog!",
+        "pikachu": "Random pikachu!",
+        "bird": "Random bird!",
+        "redpanda": "Random redpanda!"
+    },
+    "inf": {
+        "adm": "Administration",
+        "conf": "Configuration",
+        "dev": "Developers",
+        "fun": "Fun",
+        "inf": "Infos",
+        "mod": "Moderation",
+        "cmdnotfound": "Command not found!",
+        "cmdlist": "Commands list!",
+        "errorincmd": "Sorry! An error occurred while executing your command! It has been reported and the bot administration will try to fix it as soon as possible!",
+        "cmdname": "Command name",
+        "aliases": "Aliases",
+        "nonaliases" : "None aliases!",
+        "usage" : "Usage",
+        "description": "Description",
+        "nondescription": "None description!" ,
+        "cmdinfo": "Command infos!",
+        "gdevs": "Main developers",
+        "devs": "Developers",
+        "support": "Support",
+        "team": "Bot team",
+        "notfoundtx": "Make sure the command you are looking for exists! You will find all commands under the command"     ,
+        "m1": "Hi! Thanks for using my bot!",
+        "mp": "My prefix",
+        "ml": "Bot language",
+        "mpis": "It is:",
+        "mpchan": "You can change this by using",
+        "mhelp": "You can find this by using",
+        "mlang": "You can change this by using",
+        "mclist": "Commands list"  
+    },
+    "mod": {
+        
+    },
+    "functions": {
+        "sukces": "Succes!",
+        "error": "Error!",
+        "warn" : "Warn!",
+        "usage": "Incorrect usage!",
+        "usage1": "Correct usage",
+        "langs": "Available languages: `pl`, `en`",
+        "brak": "None!"
+    }
+}
